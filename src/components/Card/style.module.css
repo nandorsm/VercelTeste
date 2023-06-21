@@ -1,0 +1,18 @@
+.CardCentered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12rem;
+    height: 6rem;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    margin: 20px;
+}
+
+.CardRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
